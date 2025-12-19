@@ -1,5 +1,9 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
 
+**NAME:LEKHA SHRI M**
+
+**REFERENCE NUMBER:25006934**
+
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
@@ -24,20 +28,17 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
-**To measure IL**
+<img width="314" height="549" alt="image" src="https://github.com/user-attachments/assets/3ba473fa-a42a-417d-a0b5-34eeffb24fe5" />
 
 
-**To measure RTh or RN**
+**TABULAR COLUMN**
 
 
+<img width="351" height="395" alt="image" src="https://github.com/user-attachments/assets/8cb1a726-0edb-464d-8cc0-ca78662ecfa2" />
 
-**To measure IN or Isc**
+**CALCULATION**
 
- 
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
+<img width="351" height="578" alt="image" src="https://github.com/user-attachments/assets/9381568d-cdd3-4549-9e6a-1bde825b0b57" />
 
 
 **PROCEDURE:**
@@ -70,27 +71,9 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-To measure I L
-
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
 
 
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
 	
-**MODEL CALCULATION:**
-
-Practical value of IL (from tabulation 1) =2.3mA
 
 **Verification of Norton’s theorem**
 
@@ -98,6 +81,7 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
+<img width="379" height="251" alt="image" src="https://github.com/user-attachments/assets/fe82234a-28c5-4996-ad74-0e97607dff93" />
 
 
 **RESULT:**
